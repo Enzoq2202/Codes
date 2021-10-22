@@ -1,0 +1,5 @@
+Perfil 
+- Evento dispostos em uma única linha --> mais espaço para informações de cada evento
+
+Tela criação evento 
+- transformada em tela separada --> tira do foco a aba do fundo, maior atenção na aba de criação
