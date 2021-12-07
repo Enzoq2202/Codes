@@ -11,20 +11,20 @@ document.addEventListener('DOMContentLoaded',function(){
         evento = document.createElement('li')
 
         titulo = document.createElement('p')
-        titulo.classList.add('.evento')
+        titulo.classList.add('evento')
         titulo.innerHTML = conttitulo
 
         foto = document.createElement('img')
         foto.src = 'img/foto_evento.png'
         foto.alt = "foto do evento"
-        foto.classList.add('.imagem-evento')
+        foto.classList.add('imagem-evento')
 
         data = document.createElement('p')
-        data.classList.add('.data')
+        data.classList.add('data')
         data.innerHTML = contdata
 
         local = document.createElement('p')
-        local.classList.add('.local')
+        local.classList.add('local')
         local.innerHTML = contlocal
 
 
