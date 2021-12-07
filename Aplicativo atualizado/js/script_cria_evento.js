@@ -24,8 +24,10 @@ document.addEventListener('DOMContentLoaded',function(){
         caixa.append(botaonao)
 
         botaocerteza.addEventListener('click',function(){
-            Url = 'index.html'
+            
+            sessionStorage.setItem('evento', '1')
 
+            Url = 'index.html'
             document.location.href = Url;
 
         })
