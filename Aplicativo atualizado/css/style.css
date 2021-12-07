@@ -175,6 +175,7 @@ a{
     justify-content: center;
     padding: 1rem;
     font-family: 'Arvo', serif;
+    margin:1rem;
 }
 .testa_confirmado{
     position: absolute;
@@ -186,4 +187,16 @@ h3{
 }
 .descrição{
     font-family: 'Ubuntu', sans-serif;
+}
+
+.caixa {
+    height: 70%;
+    width: 50%;
+    background-color: #D7FFC9;
+    border: .2rem solid #559C3B;
+    position: fixed;
+    display: flex;
+    flex-direction: column;
+    align-items: space-around;
+    padding: 1rem;
 }
